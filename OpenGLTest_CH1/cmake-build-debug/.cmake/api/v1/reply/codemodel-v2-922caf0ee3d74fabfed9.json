@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OpenGLTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "E2_Iluminacion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E2_Iluminacion-Debug-ab8ff770c263ea23a20f.json",
+					"name" : "E2_Iluminacion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E3_Objetos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E3_Objetos-Debug-a80260a8b787a30c819a.json",
+					"name" : "E3_Objetos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E5_Curves::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E5_Curves-Debug-1a4ee049c51380130683.json",
+					"name" : "E5_Curves",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E5_Transformations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E5_Transformations-Debug-e21e16807b582d8fd0b0.json",
+					"name" : "E5_Transformations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E6_Sombras::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E6_Sombras-Debug-ec27c556926680c72333.json",
+					"name" : "E6_Sombras",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "E6_Transformations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-E6_Transformations-Debug-6903da465af0bd951c68.json",
+					"name" : "E6_Transformations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Transformations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Transformations-Debug-1ccc9d7eaf274f7e0607.json",
+					"name" : "Transformations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Triangles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Triangles-Debug-18cf4d2259ee10b03fa8.json",
+					"name" : "Triangles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "triangle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-triangle-Debug-b2d9bb4c7f774ea2e2ef.json",
+					"name" : "triangle",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug",
+		"source" : "C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

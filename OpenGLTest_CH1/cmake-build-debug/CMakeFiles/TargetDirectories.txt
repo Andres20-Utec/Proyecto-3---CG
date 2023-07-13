@@ -1,0 +1,11 @@
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/E5_Transformations.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/E6_Transformations.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/Triangles.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/triangle.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/Transformations.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/E2_Iluminacion.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/E3_Objetos.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/E5_Curves.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/E6_Sombras.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andre/Documents/CLion Proyectos/OpenGLTest_CH1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
